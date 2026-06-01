@@ -26,16 +26,17 @@ attendance-tracker/
 | 📊 **Dynamic Counter** | Automatically scales and updates a real-time count of total attendees present. |
 | 💾 **Excel Ready** | Automatically sorts names alphabetically and saves everything to a `daily_attendance.csv` file on close. |
 
----
-
 ## 🛠️ Quick Installation
 
 ```bash
 # 1. Clone the repository
-git clone [https://github.com/YOUR_USERNAME/attendance-tracker.git](https://github.com/YOUR_USERNAME/attendance-tracker.git)
+git clone [https://github.com/AnamikaShah95/attendance-tracker.git](https://github.com/AnamikaShah95/attendance-tracker.git)
 
 # 2. Enter the workspace directory
 cd attendance-tracker
+
+# 3. Launch the desktop tracker app
+python app.py
 
 # 3. Launch the desktop tracker app
 python app.py
